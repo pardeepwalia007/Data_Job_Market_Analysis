@@ -1,0 +1,19 @@
+# ignore datasets
+
+2025 dataset us/*csv
+2025 datasets/*csv
+
+Dashnoard/
+Historical data set /
+.venv/
+Codes/code_2022.ipynb
+Codes/extract_jobs_2024.ipynb
+Codes/*csv
+kpi_exports/
+Scraped for fun/
+Job_Analysis_Dashboard copy.twb
+main.html
+main.pdf
+top3_per_year.hyper
+main.pdf.html
+.DS_Store
