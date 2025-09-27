@@ -45,3 +45,5 @@ Note: CSV datasets are excluded via .gitignore to keep repo clean.
 	•	Top 10 Skills by Market Share
 	•	YoY Growth Index (2020 = 100)
   
+Tableau Dashboard links:
+https://public.tableau.com/app/profile/pardeep.walia/viz/DataJob_analysis_5/DataRolesSkillandPay
